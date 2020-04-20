@@ -1,0 +1,93 @@
+#stylesheet
+
+
+
+body {
+	background-color: yellow;
+}
+#tit{
+	color: #111; 
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 50px; 
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+	text-align: center; 
+
+}
+
+#tit > h1{ 
+    border-bottom: 1px solid blue;
+    -webkit-box-shadow: 0 1px 0 0 red;
+    -moz-box-shadow: 0 1px 0 0 red;
+    box-shadow: 0 1px 0 0 red;
+    content: "";    
+    margin: 0 auto; /* this centers the line to the full width specified */
+    top: 45%; left: 0; right: 0;
+    width: 95%;
+    z-index: -1;
+    color: tomato;
+    font-size: 100px;
+}
+
+	
+#tit > h2{
+    color: black;
+    font-size: 30px;	
+}
+
+#l {
+	color: #111; 
+	border: 10px solid;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 20px; 
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+}
+
+
+
+.letter {
+	border: 10px solid;
+  	background-color:  lightsalmon;
+	}
+
+#intro>p {
+	font-family:Helvetica Neue, sans-serif;
+	color: black;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+}
+
+.lista{
+	font-family:Helvetica Neue, sans-serif;
+	border: 10px solid;
+	color: darkcyan;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+}
+	
+#fem {
+
+	background-color: khaki;
+
+}
+
+
+
+#films {
+	background-color: mistyrose;
+}
+
+#musica {
+	color: black;
+	background-color: lavender;
+}
+
+#f{
+	color: black;
+	background-color: yellow;
+}
