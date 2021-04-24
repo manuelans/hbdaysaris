@@ -79,6 +79,7 @@ body {
 
 
 #films {
+	border: 10px solid;
 	background-color: mistyrose;
 }
 
@@ -88,6 +89,64 @@ body {
 }
 
 #f{
+	border: 10px solid;
+	font-family:Helvetica Neue, sans-serif;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	color: #3944bc;
+	background-color: 111;
+}
+
+#continua{
+	font-family:Helvetica Neue, sans-serif;
+	border: 10px solid;
 	color: black;
-	background-color: yellow;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	background-color: mistyrose;
+}
+
+
+#nuevas{
+	border: 10px solid;
+	font-family:Helvetica Neue, sans-serif;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	color: black;
+	background-color: khaki;
+}
+#nose{
+	border: 10px solid;
+	font-family:Helvetica Neue, sans-serif;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	color: #3944bc;
+	background-color: #ead3d7;
+}
+
+.letter1 {
+	border: 10px solid;
+  	background-color:  lightsalmon;
+	}
+
+#intro1>p {
+	font-family:Helvetica Neue, sans-serif;
+	color: black;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+}
+
+#poemas {
+	color: #3944bc; 
+	border: 10px solid;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 20px; 
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
 }
