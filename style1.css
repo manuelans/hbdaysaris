@@ -127,8 +127,22 @@ body {
 	color: #3944bc;
 	background-color: #ead3d7;
 }
+#cancioncitas{
+	border: 10px solid;
+	font-family:Helvetica Neue, sans-serif;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	color: #3944bc;
+	background-color: #ead3d7;
+}
 
 .letter1 {
+	border: 10px solid;
+  	background-color:  lightsalmon;
+	}
+
+.letter2K22 {
 	border: 10px solid;
   	background-color:  lightsalmon;
 	}
@@ -150,3 +164,14 @@ body {
 	letter-spacing: -1px; 
 	line-height: 1; 
 }
+
+#jaguar {
+	color: #3944bc; 
+	border: 10px solid;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 20px; 
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+}
+
