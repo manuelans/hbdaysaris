@@ -184,3 +184,13 @@ body {
 	line-height: 1; 
 }
 
+#museo {
+	color: #3944bc; 
+	border: 10px solid;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 20px; 
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+}
+
