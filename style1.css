@@ -194,3 +194,16 @@ body {
 	line-height: 1; 
 }
 
+#intro2>p {
+	font-family:Helvetica Neue, sans-serif;
+	color: black;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+}
+
+.letter2K23 {
+	border: 10px solid;
+  	background-color:  lightsalmon;
+	}
+
