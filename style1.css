@@ -207,3 +207,12 @@ body {
   	background-color:  lightsalmon;
 	}
 
+#cancioncitas2{
+	border: 10px solid;
+	font-family:Helvetica Neue, sans-serif;
+	font-size: 120%;
+	font-weight: bold; 
+	letter-spacing: -1px; 
+	color: #3944bc;
+	background-color: #ead3d7;
+}
